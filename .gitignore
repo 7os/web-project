@@ -1,0 +1,10 @@
+.DS_Store
+vendor/*
+dev/*
+storage/*
+!vendor/autoload.php
+!vendor/.gitkeep
+!vendor/composer/*
+!dev/README.md
+!dev/.gitkeep
+!storage/.gitkeep

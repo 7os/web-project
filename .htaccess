@@ -1,0 +1,46 @@
+##  !!! ( DO NOT MESS WITH THIS FILE ) ELSE ( YOU WILL HAVE A MESSED UP PROJECT) (-_-)
+## Generic settings
+Options -MultiViews
+RewriteEngine On
+RewriteBase /
+<FilesMatch "^\.([a-zA-Z0-9\.\_\-]{1,})$">
+  Order Deny,Allow
+  Deny from all
+</FilesMatch>
+##--
+##-REMOVE-WWW-START
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
+##-REMOVE-WWW-END
+##-FORCE-HTTPS-START
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+##-FORCE-HTTPS-END
+##-APP-SHORTCUT-START
+##-7os-web-prjman-START
+RewriteRule ^(prjman)/?$ vendor/7os/web-prjman/ [QSA,NC,L]
+##-7os-web-prjman-END
+##-7os-web-page-400-START
+RewriteRule ^(400)/?$ vendor/7os/web-page-400/ [QSA,NC,L]
+##-7os-web-page-400-END
+##-7os-web-page-401-START
+RewriteRule ^(401)/?$ vendor/7os/web-page-401/ [QSA,NC,L]
+##-7os-web-page-401-END
+##-7os-web-page-403-START
+RewriteRule ^(403)/?$ vendor/7os/web-page-403/ [QSA,NC,L]
+##-7os-web-page-403-END
+##-7os-web-page-404-START
+RewriteRule ^(404)/?$ vendor/7os/web-page-404/ [QSA,NC,L]
+##-7os-web-page-404-END
+##-7os-web-page-500-START
+RewriteRule ^(500)/?$ vendor/7os/web-page-500/ [QSA,NC,L]
+##-7os-web-page-500-END
+##-APP-SHORTCUT-END
+
+##-CUSTOM-HTTP-ERROR-START
+ErrorDocument 400 /400?request=%{THE_REQUEST}
+ErrorDocument 401 /401?request=%{THE_REQUEST}
+ErrorDocument 403 /403?request=%{THE_REQUEST}
+ErrorDocument 404 /404?request=%{THE_REQUEST}
+ErrorDocument 500 /500?request=%{THE_REQUEST}
+##-CUSTOM-HTTP-ERROR-END

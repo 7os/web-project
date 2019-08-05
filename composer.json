@@ -1,0 +1,30 @@
+{
+    "name": "7os/web-project",
+    "description": "7 OS Web - Project template",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "me@sirlouis.io"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "tymfrontiers-cdn/php-data" : ">=0.1@stable",
+      "tymfrontiers-cdn/php-session" : ">=0.1@stable",
+      "tymfrontiers-cdn/php-generic" : ">=0.1@stable",
+      "tymfrontiers-cdn/php-error-log" : ">=0.1@stable",
+      "tymfrontiers-cdn/php-instance-error" : ">=0.1@stable",
+      "7os/web-prjman" : ">=0.1@stable",
+      "7os/web-page-400" : ">=0.1@stable",
+      "7os/web-page-401" : ">=0.1@stable",
+      "7os/web-page-403" : ">=0.1@stable",
+      "7os/web-page-404" : ">=0.1@stable",
+      "7os/web-page-500" : ">=0.1@stable"
+    }
+}
