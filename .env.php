@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . "/.constant.php";
 // get compulsory packages
 require_once PRJ_LIBRARY . "/tymfrontiers-cdn/php-data/src/Data.php";
 require_once PRJ_LIBRARY . "/tymfrontiers-cdn/php-session/src/Session.php";

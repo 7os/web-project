@@ -3,16 +3,16 @@
 \define("PRJ_ROOT",\dirname(__FILE__));
 \define("PRJ_LIBRARY",PRJ_ROOT . "/vendor"); //composer directory
 \define("PRJ_APP_DIR",PRJ_ROOT . "/dev"); // /dev for development | /vendor for production
-\define("PRJ_DOMAIN","webnize.biz");
-\define("PRJ_NAME","webnize.biz");
-\define("PRJ_TITLE","Webnize Business");
-\define("PRJ_DESCRIPTION","Tym Frontiers Webnize Business project.");
-\define("PRJ_TAGS","tym, frontiers, webnize, get, affordable, website, your, business"); // separate with comma
+\define("PRJ_DOMAIN","project.7os.io");
+\define("PRJ_NAME","web-project");
+\define("PRJ_TITLE","7OS Web Project");
+\define("PRJ_DESCRIPTION","7 OS Web project template.");
+\define("PRJ_TAGS","tym, frontiers, 7, seven, os, operating, system"); // separate with comma
 \define("PRJ_API_PU_KEY","");
 \define("PRJ_API_PR_KEY","");
 // project icon check: https://realfavicongenerator.net/
 // path should be relative to domain/project root
-\define("PRJ_PRIMARY_COLOUR","#00473b");
+\define("PRJ_PRIMARY_COLOUR","#000");
 \define("PRJ_SECONDARY_COLOUR","#ffffff");
 \define("PRJ_THEME","dark"); //7 OS web-theme /theme: dark, light
 
@@ -35,32 +35,32 @@
 // MySQL Server
 \define("MYSQL_SERVER","localhost");
 // MySQL Databases
-\define("MYSQL_PREFIX","webnize_"); //
+\define("MYSQL_PREFIX","web_"); //
 \define("MYSQL_BASE_DB",MYSQL_PREFIX . "base"); // primary storage database
 \define("MYSQL_ADMIN_DB",MYSQL_PREFIX . "admin"); // admin info database
 \define("MYSQL_LOG_DB",MYSQL_PREFIX . "log"); // log database
 \define("MYSQL_DATA_DB",MYSQL_PREFIX . "data"); // database for storing generic data
 // MySQL Users
 \define("MYSQL_GUEST_USERNAME", MYSQL_PREFIX . "GUEST");
-\define("MYSQL_GUEST_PASS","cHlt01OpeF5Adrex");
+\define("MYSQL_GUEST_PASS","PassWord123");
 \define("MYSQL_USER_USERNAME", MYSQL_PREFIX . "USER");
-\define("MYSQL_USER_PASS","feFlPr94E8EvIc2u");
+\define("MYSQL_USER_PASS","PassWord123");
 \define("MYSQL_ANALYST_USERNAME", MYSQL_PREFIX . "ANALYST");
-\define("MYSQL_ANALYST_PASS","fr9S8obakogimat4");
+\define("MYSQL_ANALYST_PASS","PassWord123");
 \define("MYSQL_ADVERTISER_USERNAME", MYSQL_PREFIX . "ADVERTISER");
-\define("MYSQL_ADVERTISER_PASS","seylNAxOraTho3Ir");
+\define("MYSQL_ADVERTISER_PASS","PassWord123");
 \define("MYSQL_MODERATOR_USERNAME", MYSQL_PREFIX . "MODERATOR");
-\define("MYSQL_MODERATOR_PASS","3LBAfroWREcrlf2e");
+\define("MYSQL_MODERATOR_PASS","PassWord123");
 \define("MYSQL_EDITOR_USERNAME", MYSQL_PREFIX . "EDITOR");
-\define("MYSQL_EDITOR_PASS","qLswEyiWrUSWet7o");
+\define("MYSQL_EDITOR_PASS","PassWord123");
 \define("MYSQL_ADMIN_USERNAME", MYSQL_PREFIX . "ADMIN");
-\define("MYSQL_ADMIN_PASS","0utheThoqitr1br4");
+\define("MYSQL_ADMIN_PASS","PassWord123");
 \define("MYSQL_DEVELOPER_USERNAME", MYSQL_PREFIX . "DEVELOPER");
-\define("MYSQL_DEVELOPER_PASS","brof7egaqa0i7a0L");
+\define("MYSQL_DEVELOPER_PASS","PassWord123");
 \define("MYSQL_SUPERADMIN_USERNAME", MYSQL_PREFIX . "SUPERADMIN");
-\define("MYSQL_SUPERADMIN_PASS","spus72WoDRawAche");
+\define("MYSQL_SUPERADMIN_PASS","PassWord123");
 \define("MYSQL_OWNER_USERNAME", MYSQL_PREFIX . "OWNER");
-\define("MYSQL_OWNER_PASS","7Uchob4iPRastEta");
+\define("MYSQL_OWNER_PASS","PassWord123");
 
 // generic definition
 \define('REQUEST_SCHEME',(
