@@ -1,6 +1,6 @@
 <?php
 namespace TymFrontiers;
-require_once "init.php";
+require_once "base.init.php";
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr" manifest="./site.manifest">
