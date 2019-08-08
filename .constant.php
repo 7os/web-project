@@ -28,9 +28,9 @@
 \define("PRJ_ICON_512X512","/assets/img/icon-180x180.png");
 // template
 \define("PRJ_INC_ICONSET",PRJ_ROOT . "/src/inc-iconset.php"); // include file
-\define("PRJ_INC_HEADER","/src/inc-header.php"); // include file
-\define("PRJ_INC_FOOTER","/src/inc-footer.php"); // include file
-\define("PRJ_INC_SIDEBAR","/src/inc-aside.php"); // include file
+\define("PRJ_INC_HEADER",PRJ_ROOT . "/src/inc-header.php"); // include file
+\define("PRJ_INC_FOOTER",PRJ_ROOT . "/src/inc-footer.php"); // include file
+\define("PRJ_INC_SIDEBAR",PRJ_ROOT . "/src/inc-aside.php"); // include file
 \define("PRJ_SIDEBAR_POS","off"); // position of side bar: "left", "right", "off"
 // MySQL Server
 \define("MYSQL_SERVER","localhost");
