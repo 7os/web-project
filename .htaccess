@@ -1,6 +1,6 @@
 ##  !!! ( DO NOT MESS WITH THIS FILE ) ELSE ( YOU WILL HAVE A MESSED UP PROJECT) (-_-)
 ## Generic settings
-Options -MultiViews
+Options +FollowSymLinks -MultiViews -Indexes
 RewriteEngine On
 RewriteBase /
 <FilesMatch "^\.([a-zA-Z0-9\.\_\-]{1,})$">

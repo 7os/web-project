@@ -8,6 +8,10 @@
 \define("PRJ_TITLE","Webnize Business");
 \define("PRJ_DESCRIPTION","Tym Frontiers Webnize Business project.");
 \define("PRJ_TAGS","tym, frontiers, webnize, get, affordable, website, your, business"); // separate with comma
+\define("PRJ_AUTHOR","Author's Name"); // separate with comma
+\define("PRJ_PUBLISHER","Publisher's Name"); // separate with comma
+\define("PRJ_CREATOR","Creator's Name"); // separate with comma
+
 \define("PRJ_API_PU_KEY","");
 \define("PRJ_API_PR_KEY","");
 // project icon check: https://realfavicongenerator.net/
