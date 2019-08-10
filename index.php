@@ -1,13 +1,13 @@
 <?php
 namespace TymFrontiers;
-require_once "init.php";
+require_once "base.init.php";
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr" manifest="./site.manifest">
   <head>
     <meta charset="utf-8">
     <title>7 OS Project</title>
-    <?php include PRJ_ICONSET; ?>
+    <?php include PRJ_INC_ICONSET; ?>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
     <meta name="keywords" content="7, seven, os, operating, system, template">
     <meta name="description" content="7 OS Web - project template">
