@@ -25,6 +25,11 @@
       "7os/web-page-401" : ">=0.1@stable",
       "7os/web-page-403" : ">=0.1@stable",
       "7os/web-page-404" : ">=0.1@stable",
-      "7os/web-page-500" : ">=0.1@stable"
+      "7os/web-page-500" : ">=0.1@stable",
+      "7os/web-page-support" : ">=0.1@stable",
+      "7os/web-page-policy" : ">=0.1@stable",
+      "7os/web-page-terms" : ">=0.1@stable",
+      "7os/web-page-contact" : ">=0.1@stable",
+      "7os/web-page-about" : ">=0.1@stable"
     }
 }
