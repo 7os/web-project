@@ -20,16 +20,16 @@
       "tymfrontiers-cdn/php-generic" : ">=0.1@stable",
       "tymfrontiers-cdn/php-error-log" : ">=0.1@stable",
       "tymfrontiers-cdn/php-instance-error" : ">=0.1@stable",
-      "7os/web-prjman" : ">=0.1@stable",
-      "7os/web-page-400" : ">=0.1@stable",
-      "7os/web-page-401" : ">=0.1@stable",
-      "7os/web-page-403" : ">=0.1@stable",
-      "7os/web-page-404" : ">=0.1@stable",
-      "7os/web-page-500" : ">=0.1@stable",
-      "7os/web-page-support" : ">=0.1@stable",
-      "7os/web-page-policy" : ">=0.1@stable",
-      "7os/web-page-terms" : ">=0.1@stable",
-      "7os/web-page-contact" : ">=0.1@stable",
-      "7os/web-page-about" : ">=0.1@stable"
+      "7os/web-app-prjman" : ">=0.1@stable",
+      "7os/web-app-400" : ">=0.1@stable",
+      "7os/web-app-401" : ">=0.1@stable",
+      "7os/web-app-403" : ">=0.1@stable",
+      "7os/web-app-404" : ">=0.1@stable",
+      "7os/web-app-500" : ">=0.1@stable",
+      "7os/web-app-support" : ">=0.1@stable",
+      "7os/web-app-policy" : ">=0.1@stable",
+      "7os/web-app-terms" : ">=0.1@stable",
+      "7os/web-app-contact" : ">=0.1@stable",
+      "7os/web-app-about" : ">=0.1@stable"
     }
 }
