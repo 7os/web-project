@@ -1,5 +1,4 @@
 <?php
-namespace TymFrontiers\Webnize;
 // First: thing first >>>>
 // load up definitions, if not already loaded
 require_once __DIR__ . "/.constant.php";

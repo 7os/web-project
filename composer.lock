@@ -1,0 +1,1573 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c803da43dec35ff921dc7ed8647d1a0e",
+    "packages": [
+        {
+            "name": "7os/web-app-400",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-400.git",
+                "reference": "6c39e7aca71d6dbc70c2b260bc97c3efe92ac9c8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-400/zipball/6c39e7aca71d6dbc70c2b260bc97c3efe92ac9c8",
+                "reference": "6c39e7aca71d6dbc70c2b260bc97c3efe92ac9c8",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - 400 - Bad Request page",
+            "homepage": "https://github.com/7os/web-app-400",
+            "keywords": [
+                "7",
+                "400",
+                "bad",
+                "javascript",
+                "os",
+                "page",
+                "php",
+                "request",
+                "seven",
+                "web"
+            ],
+            "time": "2019-08-11T04:36:09+00:00"
+        },
+        {
+            "name": "7os/web-app-401",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-401.git",
+                "reference": "78a45194b5257780aa08f533ee2782e8634275cd"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-401/zipball/78a45194b5257780aa08f533ee2782e8634275cd",
+                "reference": "78a45194b5257780aa08f533ee2782e8634275cd",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - 401 Page",
+            "homepage": "https://github.com/7os/web-app-401",
+            "keywords": [
+                "7",
+                "401",
+                "Unauthorized",
+                "app",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "web"
+            ],
+            "time": "2019-08-11T04:36:03+00:00"
+        },
+        {
+            "name": "7os/web-app-403",
+            "version": "0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-403.git",
+                "reference": "4ecdbeb3773ad19899ceae1a505da96303061634"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-403/zipball/4ecdbeb3773ad19899ceae1a505da96303061634",
+                "reference": "4ecdbeb3773ad19899ceae1a505da96303061634",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - 403 page",
+            "homepage": "https://github.com/7os/web-app-403",
+            "keywords": [
+                "7",
+                "app",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "web"
+            ],
+            "time": "2019-08-11T04:35:54+00:00"
+        },
+        {
+            "name": "7os/web-app-404",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-404.git",
+                "reference": "9cee866d834d05d94b5aa132a626865ecf5a5522"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-404/zipball/9cee866d834d05d94b5aa132a626865ecf5a5522",
+                "reference": "9cee866d834d05d94b5aa132a626865ecf5a5522",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - App template",
+            "homepage": "https://github.com/7os/web-app-404",
+            "keywords": [
+                "7",
+                "app",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "web"
+            ],
+            "time": "2019-08-11T04:35:48+00:00"
+        },
+        {
+            "name": "7os/web-app-500",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-500.git",
+                "reference": "bc031b48dd9b9d8b095f128d3413a3b748e8a40a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-500/zipball/bc031b48dd9b9d8b095f128d3413a3b748e8a40a",
+                "reference": "bc031b48dd9b9d8b095f128d3413a3b748e8a40a",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - App template",
+            "homepage": "https://github.com/7os/web-app-500",
+            "keywords": [
+                "7",
+                "app",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "web"
+            ],
+            "time": "2019-08-11T04:35:29+00:00"
+        },
+        {
+            "name": "7os/web-app-about",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-about.git",
+                "reference": "2222b32698eb2145cd5d904154a9960cd2619c1b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-about/zipball/2222b32698eb2145cd5d904154a9960cd2619c1b",
+                "reference": "2222b32698eb2145cd5d904154a9960cd2619c1b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - Project info template",
+            "homepage": "https://github.com/7os/web-app-about",
+            "keywords": [
+                "7",
+                "about",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "us",
+                "web"
+            ],
+            "time": "2019-08-11T04:35:22+00:00"
+        },
+        {
+            "name": "7os/web-app-contact",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-contact.git",
+                "reference": "388e3cf0b28d75da92aeddefb3df336163e3642a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-contact/zipball/388e3cf0b28d75da92aeddefb3df336163e3642a",
+                "reference": "388e3cf0b28d75da92aeddefb3df336163e3642a",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - Project contact template",
+            "homepage": "https://github.com/7os/web-app-contact",
+            "keywords": [
+                "7",
+                "contact",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "us",
+                "web"
+            ],
+            "time": "2019-08-11T04:35:14+00:00"
+        },
+        {
+            "name": "7os/web-app-policy",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-policy.git",
+                "reference": "e6e749608f6250c3bbbf6ed06b307e82d44d8da0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-policy/zipball/e6e749608f6250c3bbbf6ed06b307e82d44d8da0",
+                "reference": "e6e749608f6250c3bbbf6ed06b307e82d44d8da0",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - Project support template",
+            "homepage": "https://github.com/7os/web-app-policy",
+            "keywords": [
+                "7",
+                "Policy",
+                "conditions",
+                "javascript",
+                "os",
+                "php",
+                "privacy",
+                "seven",
+                "terms",
+                "web"
+            ],
+            "time": "2019-08-11T04:34:59+00:00"
+        },
+        {
+            "name": "7os/web-app-prjman",
+            "version": "v0.1.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-prjman.git",
+                "reference": "d3fd2adba3f266b87b1af370b97d718de1f51746"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-prjman/zipball/d3fd2adba3f266b87b1af370b97d718de1f51746",
+                "reference": "d3fd2adba3f266b87b1af370b97d718de1f51746",
+                "shasum": ""
+            },
+            "require": {
+                "tymfrontiers-cdn/php-session": ">=0.1@stable"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - Project manager",
+            "homepage": "https://github.com/7os/web-app-prjman",
+            "keywords": [
+                "7",
+                "app",
+                "manager",
+                "os",
+                "php",
+                "project",
+                "seven",
+                "web"
+            ],
+            "time": "2019-08-11T04:34:52+00:00"
+        },
+        {
+            "name": "7os/web-app-support",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-support.git",
+                "reference": "0bfcd5d172be76c142bb1155a2c0e3f428b61d36"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-support/zipball/0bfcd5d172be76c142bb1155a2c0e3f428b61d36",
+                "reference": "0bfcd5d172be76c142bb1155a2c0e3f428b61d36",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - Project support template",
+            "homepage": "https://github.com/7os/web-app-support",
+            "keywords": [
+                "7",
+                "contact",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "support",
+                "web"
+            ],
+            "time": "2019-08-11T04:34:44+00:00"
+        },
+        {
+            "name": "7os/web-app-terms",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/7os/web-app-terms.git",
+                "reference": "fe9816689c30b97717c855cf5e647ce6af0f4673"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/7os/web-app-terms/zipball/fe9816689c30b97717c855cf5e647ce6af0f4673",
+                "reference": "fe9816689c30b97717c855cf5e647ce6af0f4673",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": []
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ikechukwu Okalia",
+                    "email": "me@sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd.",
+                    "email": "dev@tymfrontiers.com"
+                }
+            ],
+            "description": "7 OS Web - Project support template",
+            "homepage": "https://github.com/7os/web-app-terms",
+            "keywords": [
+                "7",
+                "conditions",
+                "javascript",
+                "os",
+                "php",
+                "seven",
+                "terms",
+                "web"
+            ],
+            "time": "2019-08-11T04:34:28+00:00"
+        },
+        {
+            "name": "giggsey/libphonenumber-for-php",
+            "version": "8.10.16",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/giggsey/libphonenumber-for-php.git",
+                "reference": "c62db205bb94fef8bd377c12d3a14e5677895db2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/c62db205bb94fef8bd377c12d3a14e5677895db2",
+                "reference": "c62db205bb94fef8bd377c12d3a14e5677895db2",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "giggsey/locale": "^1.7",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "pear/pear-core-minimal": "^1.9",
+                "pear/pear_exception": "^1.0",
+                "pear/versioncontrol_git": "^0.5",
+                "phing/phing": "^2.7",
+                "php-coveralls/php-coveralls": "^1.0|^2.0",
+                "phpunit/phpunit": "^4.8.36|^5.0",
+                "symfony/console": "^2.8|^3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "8.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "libphonenumber\\": "src/"
+                },
+                "exclude-from-classmap": [
+                    "/src/data/",
+                    "/src/carrier/data/",
+                    "/src/geocoding/data/",
+                    "/src/timezone/data/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Joshua Gigg",
+                    "email": "giggsey@gmail.com",
+                    "homepage": "https://giggsey.com/"
+                }
+            ],
+            "description": "PHP Port of Google's libphonenumber",
+            "homepage": "https://github.com/giggsey/libphonenumber-for-php",
+            "keywords": [
+                "geocoding",
+                "geolocation",
+                "libphonenumber",
+                "mobile",
+                "phonenumber",
+                "validation"
+            ],
+            "time": "2019-08-01T13:17:58+00:00"
+        },
+        {
+            "name": "giggsey/locale",
+            "version": "1.7.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/giggsey/Locale.git",
+                "reference": "b8030fc8df13cdfbecba318588de2d52b49c9b50"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/giggsey/Locale/zipball/b8030fc8df13cdfbecba318588de2d52b49c9b50",
+                "reference": "b8030fc8df13cdfbecba318588de2d52b49c9b50",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "pear/pear-core-minimal": "^1.9",
+                "pear/pear_exception": "^1.0",
+                "pear/versioncontrol_git": "^0.5",
+                "phing/phing": "~2.7",
+                "phpunit/phpunit": "^4.8|^5.0",
+                "satooshi/php-coveralls": "^1.0",
+                "symfony/console": "^2.8|^3.0|^4.0",
+                "symfony/filesystem": "^2.8|^3.0|^4.0",
+                "symfony/finder": "^2.8|^3.0|^4.0",
+                "symfony/process": "^2.8|^3.0|^4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Giggsey\\Locale\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Joshua Gigg",
+                    "email": "giggsey@gmail.com",
+                    "homepage": "http://giggsey.com/"
+                }
+            ],
+            "description": "Locale functions required by libphonenumber-for-php",
+            "time": "2019-04-26T07:28:50+00:00"
+        },
+        {
+            "name": "guzzlehttp/guzzle",
+            "version": "6.3.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/guzzle.git",
+                "reference": "407b0cb880ace85c9b63c5f9551db498cb2d50ba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/407b0cb880ace85c9b63c5f9551db498cb2d50ba",
+                "reference": "407b0cb880ace85c9b63c5f9551db498cb2d50ba",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/promises": "^1.0",
+                "guzzlehttp/psr7": "^1.4",
+                "php": ">=5.5"
+            },
+            "require-dev": {
+                "ext-curl": "*",
+                "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4 || ^7.0",
+                "psr/log": "^1.0"
+            },
+            "suggest": {
+                "psr/log": "Required for using the Log middleware"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "6.3-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "src/functions_include.php"
+                ],
+                "psr-4": {
+                    "GuzzleHttp\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michael Dowling",
+                    "email": "mtdowling@gmail.com",
+                    "homepage": "https://github.com/mtdowling"
+                }
+            ],
+            "description": "Guzzle is a PHP HTTP client library",
+            "homepage": "http://guzzlephp.org/",
+            "keywords": [
+                "client",
+                "curl",
+                "framework",
+                "http",
+                "http client",
+                "rest",
+                "web service"
+            ],
+            "time": "2018-04-22T15:46:56+00:00"
+        },
+        {
+            "name": "guzzlehttp/promises",
+            "version": "v1.3.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/promises.git",
+                "reference": "a59da6cf61d80060647ff4d3eb2c03a2bc694646"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/a59da6cf61d80060647ff4d3eb2c03a2bc694646",
+                "reference": "a59da6cf61d80060647ff4d3eb2c03a2bc694646",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.4-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "GuzzleHttp\\Promise\\": "src/"
+                },
+                "files": [
+                    "src/functions_include.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michael Dowling",
+                    "email": "mtdowling@gmail.com",
+                    "homepage": "https://github.com/mtdowling"
+                }
+            ],
+            "description": "Guzzle promises library",
+            "keywords": [
+                "promise"
+            ],
+            "time": "2016-12-20T10:07:11+00:00"
+        },
+        {
+            "name": "guzzlehttp/psr7",
+            "version": "1.6.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/psr7.git",
+                "reference": "239400de7a173fe9901b9ac7c06497751f00727a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/239400de7a173fe9901b9ac7c06497751f00727a",
+                "reference": "239400de7a173fe9901b9ac7c06497751f00727a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "psr/http-message": "~1.0",
+                "ralouphie/getallheaders": "^2.0.5 || ^3.0.0"
+            },
+            "provide": {
+                "psr/http-message-implementation": "1.0"
+            },
+            "require-dev": {
+                "ext-zlib": "*",
+                "phpunit/phpunit": "~4.8.36 || ^5.7.27 || ^6.5.8"
+            },
+            "suggest": {
+                "zendframework/zend-httphandlerrunner": "Emit PSR-7 responses"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.6-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "GuzzleHttp\\Psr7\\": "src/"
+                },
+                "files": [
+                    "src/functions_include.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michael Dowling",
+                    "email": "mtdowling@gmail.com",
+                    "homepage": "https://github.com/mtdowling"
+                },
+                {
+                    "name": "Tobias Schultze",
+                    "homepage": "https://github.com/Tobion"
+                }
+            ],
+            "description": "PSR-7 message implementation that also provides common utility methods",
+            "keywords": [
+                "http",
+                "message",
+                "psr-7",
+                "request",
+                "response",
+                "stream",
+                "uri",
+                "url"
+            ],
+            "time": "2019-07-01T23:21:34+00:00"
+        },
+        {
+            "name": "psr/http-message",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/http-message.git",
+                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/f6561bf28d520154e4b0ec72be95418abe6d9363",
+                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Http\\Message\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "http://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for HTTP messages",
+            "homepage": "https://github.com/php-fig/http-message",
+            "keywords": [
+                "http",
+                "http-message",
+                "psr",
+                "psr-7",
+                "request",
+                "response"
+            ],
+            "time": "2016-08-06T14:39:51+00:00"
+        },
+        {
+            "name": "ralouphie/getallheaders",
+            "version": "3.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ralouphie/getallheaders.git",
+                "reference": "120b605dfeb996808c31b6477290a714d356e822"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ralouphie/getallheaders/zipball/120b605dfeb996808c31b6477290a714d356e822",
+                "reference": "120b605dfeb996808c31b6477290a714d356e822",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "php-coveralls/php-coveralls": "^2.1",
+                "phpunit/phpunit": "^5 || ^6.5"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/getallheaders.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ralph Khattar",
+                    "email": "ralph.khattar@gmail.com"
+                }
+            ],
+            "description": "A polyfill for getallheaders.",
+            "time": "2019-03-08T08:55:37+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-data",
+            "version": "v0.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-data.git",
+                "reference": "9b827eed26285744dbd9b17adeb43a7fe220ab5b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-data/zipball/9b827eed26285744dbd9b17adeb43a7fe220ab5b",
+                "reference": "9b827eed26285744dbd9b17adeb43a7fe220ab5b",
+                "shasum": ""
+            },
+            "require": {
+                "giggsey/libphonenumber-for-php": ">=8.0@stable",
+                "guzzlehttp/guzzle": ">=6.0@stable",
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP Data manager",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-data",
+            "keywords": [
+                "data",
+                "frontiers",
+                "manager",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-30T13:59:59+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-error-log",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-error-log.git",
+                "reference": "dfd7ee16b3a0c9e93afed0ec9518dd84fd7a5ed0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-error-log/zipball/dfd7ee16b3a0c9e93afed0ec9518dd84fd7a5ed0",
+                "reference": "dfd7ee16b3a0c9e93afed0ec9518dd84fd7a5ed0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "tymfrontiers-cdn/php-mysql-database": ">=0.1@stable",
+                "tymfrontiers-cdn/php-mysql-database-object": ">=0.1@stable",
+                "tymfrontiers-cdn/php-pagination": ">=0.1@stable"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP error log",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-error-log",
+            "keywords": [
+                "error",
+                "frontiers",
+                "log",
+                "tym"
+            ],
+            "time": "2019-07-08T03:06:19+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-generic",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-generic.git",
+                "reference": "0d6cb6ab545cc27d8540e9f4003fd471caa878d1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-generic/zipball/0d6cb6ab545cc27d8540e9f4003fd471caa878d1",
+                "reference": "0d6cb6ab545cc27d8540e9f4003fd471caa878d1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP generic functions",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-generic",
+            "keywords": [
+                "frontiers",
+                "functions",
+                "generic",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:17:48+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-instance-error",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-instance-error.git",
+                "reference": "2a85ff5e5cbc350f40ba153ab92b77514cf6429a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-instance-error/zipball/2a85ff5e5cbc350f40ba153ab92b77514cf6429a",
+                "reference": "2a85ff5e5cbc350f40ba153ab92b77514cf6429a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "tymfrontiers-cdn/php-error-log": ">=0.1@stable",
+                "tymfrontiers-cdn/php-session": ">=0.1@stable"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP Instance Error",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-instance-error",
+            "keywords": [
+                "class",
+                "error",
+                "frontiers",
+                "instance",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:24:38+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-location",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-location.git",
+                "reference": "a307cd98dc85ed313d9c04d9077924957ee0a7ed"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-location/zipball/a307cd98dc85ed313d9c04d9077924957ee0a7ed",
+                "reference": "a307cd98dc85ed313d9c04d9077924957ee0a7ed",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "tymfrontiers-cdn/php-multiform": ">=0.1@stable",
+                "tymfrontiers-cdn/php-session": ">=0.1@stable",
+                "victorybiz/geoip-location": ">=1.0@stable"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "Get visitor's basic location information",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-location",
+            "keywords": [
+                "frontiers",
+                "location",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:25:55+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-multiform",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-multiform.git",
+                "reference": "e0c46232e7aad3d1d42b0b9bc2c66c7b4abe196b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-multiform/zipball/e0c46232e7aad3d1d42b0b9bc2c66c7b4abe196b",
+                "reference": "e0c46232e7aad3d1d42b0b9bc2c66c7b4abe196b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "tymfrontiers-cdn/php-mysql-database": ">=0.1@stable",
+                "tymfrontiers-cdn/php-mysql-database-object": ">=0.1@stable",
+                "tymfrontiers-cdn/php-pagination": ">=0.1@stable"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP MultiForm",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-multiform",
+            "keywords": [
+                "Forms",
+                "frontiers",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:27:28+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-mysql-database",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-mysql-database.git",
+                "reference": "87d2a1889b9a96cdf4f6f8f796f671b4142ceec9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-mysql-database/zipball/87d2a1889b9a96cdf4f6f8f796f671b4142ceec9",
+                "reference": "87d2a1889b9a96cdf4f6f8f796f671b4142ceec9",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP MySQL Database manager",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-mysql-database",
+            "keywords": [
+                "database",
+                "frontiers",
+                "manager",
+                "mysql",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:28:25+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-mysql-database-object",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-mysql-database-object.git",
+                "reference": "dba082b43812d43b73f42c88f272956add7db1d3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-mysql-database-object/zipball/dba082b43812d43b73f42c88f272956add7db1d3",
+                "reference": "dba082b43812d43b73f42c88f272956add7db1d3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\Helper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP MySQL Database Object",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-mysql-database-object",
+            "keywords": [
+                "database",
+                "frontiers",
+                "mysql",
+                "object",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:29:39+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-pagination",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-pagination.git",
+                "reference": "4df3f61fc7de36b3d1c329442e99c828a6f34eb0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-pagination/zipball/4df3f61fc7de36b3d1c329442e99c828a6f34eb0",
+                "reference": "4df3f61fc7de36b3d1c329442e99c828a6f34eb0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\Helper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP Pagination",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-pagination",
+            "keywords": [
+                "frontiers",
+                "pagination",
+                "php",
+                "tym"
+            ],
+            "time": "2019-07-08T03:31:03+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-session",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-session.git",
+                "reference": "b03a95d3af75c73f482eca50da28d86c5df971b2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-session/zipball/b03a95d3af75c73f482eca50da28d86c5df971b2",
+                "reference": "b03a95d3af75c73f482eca50da28d86c5df971b2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "tymfrontiers-cdn/php-data": ">=0.1@stable",
+                "tymfrontiers-cdn/php-location": ">=0.1@stable"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP Session",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-session",
+            "keywords": [
+                "frontiers",
+                "manager",
+                "php",
+                "session",
+                "tym"
+            ],
+            "time": "2019-07-08T03:32:50+00:00"
+        },
+        {
+            "name": "tymfrontiers-cdn/php-validator",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tymfrontiers-cdn/php-validator.git",
+                "reference": "64752608305cff4ae1c0a1f72d2941db42e99782"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-validator/zipball/64752608305cff4ae1c0a1f72d2941db42e99782",
+                "reference": "64752608305cff4ae1c0a1f72d2941db42e99782",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TymFrontiers\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sir Louis",
+                    "role": "developer",
+                    "email": "me@sirlouis.io",
+                    "homepage": "https://sirlouis.io"
+                },
+                {
+                    "name": "Tym Frontiers Ltd",
+                    "role": "developer",
+                    "email": "git@tymfrontiers.com",
+                    "homepage": "https://tymfrontiers.com"
+                }
+            ],
+            "description": "PHP Validator",
+            "homepage": "https://github.com/tymfrontiers-cdn/php-validator",
+            "keywords": [
+                "frontiers",
+                "php",
+                "tym",
+                "validator"
+            ],
+            "time": "2019-07-08T03:34:46+00:00"
+        },
+        {
+            "name": "victorybiz/geoip-location",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/victorybiz/geoip-location.git",
+                "reference": "d0d52f9e547cfaa5d66d1762a48dbbf6e0c2b057"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/victorybiz/geoip-location/zipball/d0d52f9e547cfaa5d66d1762a48dbbf6e0c2b057",
+                "reference": "d0d52f9e547cfaa5d66d1762a48dbbf6e0c2b057",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/guzzle": "6.*",
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~5.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Victorybiz\\GeoIPLocation\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Victory Osayi",
+                    "email": "lavictorybiz@gmail.com"
+                }
+            ],
+            "description": "Get the geographical location of website visitors based on their IP addresses. Support Laravel 5 and PHP (Non-Laravel) Project.",
+            "keywords": [
+                "geoip",
+                "github",
+                "laravel",
+                "laravel 5",
+                "open source",
+                "php"
+            ],
+            "time": "2018-01-17T16:21:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "tymfrontiers-cdn/php-data": 0,
+        "tymfrontiers-cdn/php-session": 0,
+        "tymfrontiers-cdn/php-generic": 0,
+        "tymfrontiers-cdn/php-error-log": 0,
+        "tymfrontiers-cdn/php-instance-error": 0,
+        "7os/web-app-prjman": 0,
+        "7os/web-app-400": 0,
+        "7os/web-app-401": 0,
+        "7os/web-app-403": 0,
+        "7os/web-app-404": 0,
+        "7os/web-app-500": 0,
+        "7os/web-app-support": 0,
+        "7os/web-app-policy": 0,
+        "7os/web-app-terms": 0,
+        "7os/web-app-contact": 0,
+        "7os/web-app-about": 0
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

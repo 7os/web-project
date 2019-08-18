@@ -30,6 +30,7 @@
       "7os/web-app-policy" : ">=0.1@stable",
       "7os/web-app-terms" : ">=0.1@stable",
       "7os/web-app-contact" : ">=0.1@stable",
-      "7os/web-app-about" : ">=0.1@stable"
+      "7os/web-app-about" : ">=0.1@stable",
+        "tymfrontiers-cdn/php-validator": "^0.1.0"
     }
 }

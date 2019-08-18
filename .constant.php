@@ -8,9 +8,9 @@
 \define("PRJ_TITLE","7OS Web Project");
 \define("PRJ_DESCRIPTION","7 OS Web project template.");
 \define("PRJ_TAGS","tym, frontiers, 7, seven, os, operating, system"); // separate with comma
-\define("PRJ_AUTHOR","Author's Name"); // separate with comma
-\define("PRJ_PUBLISHER","Publisher's Name"); // separate with comma
-\define("PRJ_CREATOR","Creator's Name"); // separate with comma
+\define("PRJ_AUTHOR","Author's Name");
+\define("PRJ_PUBLISHER","Publisher's Name");
+\define("PRJ_CREATOR","Creator's Name");
 \define("PRJ_API_PU_KEY","");
 \define("PRJ_API_PR_KEY","");
 // project icon check: https://realfavicongenerator.net/
@@ -38,7 +38,7 @@
 // MySQL Server
 \define("MYSQL_SERVER","localhost");
 // MySQL Databases
-\define("MYSQL_PREFIX","web_"); //
+\define("MYSQL_PREFIX","webprj_"); //
 \define("MYSQL_BASE_DB",MYSQL_PREFIX . "base"); // primary storage database
 \define("MYSQL_ADMIN_DB",MYSQL_PREFIX . "admin"); // admin info database
 \define("MYSQL_LOG_DB",MYSQL_PREFIX . "log"); // log database
