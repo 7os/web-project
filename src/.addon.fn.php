@@ -11,3 +11,6 @@ function html_script (string $script_name) {
 function asset_img (string $filename) {
   return WHOST . "/assets/img/{$filename}";
 }
+function inc_file (string $filename) {
+  return PRJ_ROOT . "/src/{$filename}";
+}
