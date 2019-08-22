@@ -8,6 +8,9 @@ RewriteBase /
   Deny from all
 </FilesMatch>
 ##--
+##-REWRITEPATH-START
+SetEnvIf Request_URL "^.*" SHORTCUT_PATH=/vendor
+##-REWRITEPATH-END
 ##-REMOVE-WWW-START
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
@@ -18,22 +21,22 @@ RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
 ##-FORCE-HTTPS-END
 ##-APP-SHORTCUT-START
 ##-7os-web-prjman-START
-RewriteRule ^(prjman)/?$ vendor/7os/web-prjman/ [QSA,NC,L]
+RewriteRule ^(prjman)/?$ %{ENV:SHORTCUT_PATH}/7os/web-prjman/ [QSA,NC,L]
 ##-7os-web-prjman-END
 ##-7os-web-page-400-START
-RewriteRule ^(400)/?$ vendor/7os/web-page-400/ [QSA,NC,L]
+RewriteRule ^(400)/?$ %{ENV:SHORTCUT_PATH}/7os/web-page-400/ [QSA,NC,L]
 ##-7os-web-page-400-END
 ##-7os-web-page-401-START
-RewriteRule ^(401)/?$ vendor/7os/web-page-401/ [QSA,NC,L]
+RewriteRule ^(401)/?$ %{ENV:SHORTCUT_PATH}/7os/web-page-401/ [QSA,NC,L]
 ##-7os-web-page-401-END
 ##-7os-web-page-403-START
-RewriteRule ^(403)/?$ vendor/7os/web-page-403/ [QSA,NC,L]
+RewriteRule ^(403)/?$ %{ENV:SHORTCUT_PATH}/7os/web-page-403/ [QSA,NC,L]
 ##-7os-web-page-403-END
 ##-7os-web-page-404-START
-RewriteRule ^(404)/?$ vendor/7os/web-page-404/ [QSA,NC,L]
+RewriteRule ^(404)/?$ %{ENV:SHORTCUT_PATH}/7os/web-page-404/ [QSA,NC,L]
 ##-7os-web-page-404-END
 ##-7os-web-page-500-START
-RewriteRule ^(500)/?$ vendor/7os/web-page-500/ [QSA,NC,L]
+RewriteRule ^(500)/?$ %{ENV:SHORTCUT_PATH}/7os/web-page-500/ [QSA,NC,L]
 ##-7os-web-page-500-END
 ##-APP-SHORTCUT-END
 
