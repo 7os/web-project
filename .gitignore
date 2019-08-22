@@ -2,6 +2,7 @@
 vendor/*
 dev/*
 storage/*
+test/*
 !vendor/autoload.php
 !vendor/.gitkeep
 !vendor/composer/*
