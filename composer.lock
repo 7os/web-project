@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c803da43dec35ff921dc7ed8647d1a0e",
+    "content-hash": "d813dc2d46c3a0a2b63f3cdd5232a9f3",
     "packages": [
         {
             "name": "7os/web-app-400",
-            "version": "v0.1.4",
+            "version": "v0.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-400.git",
-                "reference": "6c39e7aca71d6dbc70c2b260bc97c3efe92ac9c8"
+                "reference": "ccc77d13736b78129180e61454597dd738d5de7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-400/zipball/6c39e7aca71d6dbc70c2b260bc97c3efe92ac9c8",
-                "reference": "6c39e7aca71d6dbc70c2b260bc97c3efe92ac9c8",
+                "url": "https://api.github.com/repos/7os/web-app-400/zipball/ccc77d13736b78129180e61454597dd738d5de7f",
+                "reference": "ccc77d13736b78129180e61454597dd738d5de7f",
                 "shasum": ""
             },
             "type": "library",
@@ -52,20 +52,20 @@
                 "seven",
                 "web"
             ],
-            "time": "2019-08-11T04:36:09+00:00"
+            "time": "2019-10-01T14:59:41+00:00"
         },
         {
             "name": "7os/web-app-401",
-            "version": "v0.1.4",
+            "version": "v0.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-401.git",
-                "reference": "78a45194b5257780aa08f533ee2782e8634275cd"
+                "reference": "d400e1b3df1b8df4b7a0200e93506e02e26b4a70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-401/zipball/78a45194b5257780aa08f533ee2782e8634275cd",
-                "reference": "78a45194b5257780aa08f533ee2782e8634275cd",
+                "url": "https://api.github.com/repos/7os/web-app-401/zipball/d400e1b3df1b8df4b7a0200e93506e02e26b4a70",
+                "reference": "d400e1b3df1b8df4b7a0200e93506e02e26b4a70",
                 "shasum": ""
             },
             "type": "library",
@@ -99,20 +99,20 @@
                 "seven",
                 "web"
             ],
-            "time": "2019-08-11T04:36:03+00:00"
+            "time": "2019-10-01T14:59:49+00:00"
         },
         {
             "name": "7os/web-app-403",
-            "version": "0.1.4",
+            "version": "v0.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-403.git",
-                "reference": "4ecdbeb3773ad19899ceae1a505da96303061634"
+                "reference": "bb149e2139892e3573610d19db7498691a0faec0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-403/zipball/4ecdbeb3773ad19899ceae1a505da96303061634",
-                "reference": "4ecdbeb3773ad19899ceae1a505da96303061634",
+                "url": "https://api.github.com/repos/7os/web-app-403/zipball/bb149e2139892e3573610d19db7498691a0faec0",
+                "reference": "bb149e2139892e3573610d19db7498691a0faec0",
                 "shasum": ""
             },
             "type": "library",
@@ -144,20 +144,20 @@
                 "seven",
                 "web"
             ],
-            "time": "2019-08-11T04:35:54+00:00"
+            "time": "2019-10-01T14:59:57+00:00"
         },
         {
             "name": "7os/web-app-404",
-            "version": "v0.1.4",
+            "version": "v0.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-404.git",
-                "reference": "9cee866d834d05d94b5aa132a626865ecf5a5522"
+                "reference": "0f9f8d3e147ac8dfce6f74cc68ccf0161c9ff937"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-404/zipball/9cee866d834d05d94b5aa132a626865ecf5a5522",
-                "reference": "9cee866d834d05d94b5aa132a626865ecf5a5522",
+                "url": "https://api.github.com/repos/7os/web-app-404/zipball/0f9f8d3e147ac8dfce6f74cc68ccf0161c9ff937",
+                "reference": "0f9f8d3e147ac8dfce6f74cc68ccf0161c9ff937",
                 "shasum": ""
             },
             "type": "library",
@@ -189,20 +189,20 @@
                 "seven",
                 "web"
             ],
-            "time": "2019-08-11T04:35:48+00:00"
+            "time": "2019-10-01T15:00:05+00:00"
         },
         {
             "name": "7os/web-app-500",
-            "version": "v0.1.4",
+            "version": "v0.1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-500.git",
-                "reference": "bc031b48dd9b9d8b095f128d3413a3b748e8a40a"
+                "reference": "0fe7566beaefc15f0aadce7f2a94a86b55871bf5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-500/zipball/bc031b48dd9b9d8b095f128d3413a3b748e8a40a",
-                "reference": "bc031b48dd9b9d8b095f128d3413a3b748e8a40a",
+                "url": "https://api.github.com/repos/7os/web-app-500/zipball/0fe7566beaefc15f0aadce7f2a94a86b55871bf5",
+                "reference": "0fe7566beaefc15f0aadce7f2a94a86b55871bf5",
                 "shasum": ""
             },
             "type": "library",
@@ -234,20 +234,20 @@
                 "seven",
                 "web"
             ],
-            "time": "2019-08-11T04:35:29+00:00"
+            "time": "2019-10-01T15:00:16+00:00"
         },
         {
             "name": "7os/web-app-about",
-            "version": "v0.1.1",
+            "version": "v0.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-about.git",
-                "reference": "2222b32698eb2145cd5d904154a9960cd2619c1b"
+                "reference": "cb15f3cc9fe6930d74490dbb96db6f96ecad4931"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-about/zipball/2222b32698eb2145cd5d904154a9960cd2619c1b",
-                "reference": "2222b32698eb2145cd5d904154a9960cd2619c1b",
+                "url": "https://api.github.com/repos/7os/web-app-about/zipball/cb15f3cc9fe6930d74490dbb96db6f96ecad4931",
+                "reference": "cb15f3cc9fe6930d74490dbb96db6f96ecad4931",
                 "shasum": ""
             },
             "type": "library",
@@ -280,20 +280,20 @@
                 "us",
                 "web"
             ],
-            "time": "2019-08-11T04:35:22+00:00"
+            "time": "2019-10-01T15:00:23+00:00"
         },
         {
             "name": "7os/web-app-contact",
-            "version": "v0.1.1",
+            "version": "v0.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-contact.git",
-                "reference": "388e3cf0b28d75da92aeddefb3df336163e3642a"
+                "reference": "1f58a93bee1f5aa13d4af52539634639814dd29e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-contact/zipball/388e3cf0b28d75da92aeddefb3df336163e3642a",
-                "reference": "388e3cf0b28d75da92aeddefb3df336163e3642a",
+                "url": "https://api.github.com/repos/7os/web-app-contact/zipball/1f58a93bee1f5aa13d4af52539634639814dd29e",
+                "reference": "1f58a93bee1f5aa13d4af52539634639814dd29e",
                 "shasum": ""
             },
             "type": "library",
@@ -326,20 +326,20 @@
                 "us",
                 "web"
             ],
-            "time": "2019-08-11T04:35:14+00:00"
+            "time": "2019-10-01T15:00:37+00:00"
         },
         {
             "name": "7os/web-app-policy",
-            "version": "v0.1.1",
+            "version": "v0.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-policy.git",
-                "reference": "e6e749608f6250c3bbbf6ed06b307e82d44d8da0"
+                "reference": "539af0ec6143e55826c2b160a007a0475623be10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-policy/zipball/e6e749608f6250c3bbbf6ed06b307e82d44d8da0",
-                "reference": "e6e749608f6250c3bbbf6ed06b307e82d44d8da0",
+                "url": "https://api.github.com/repos/7os/web-app-policy/zipball/539af0ec6143e55826c2b160a007a0475623be10",
+                "reference": "539af0ec6143e55826c2b160a007a0475623be10",
                 "shasum": ""
             },
             "type": "library",
@@ -374,20 +374,20 @@
                 "terms",
                 "web"
             ],
-            "time": "2019-08-11T04:34:59+00:00"
+            "time": "2019-10-24T10:21:52+00:00"
         },
         {
             "name": "7os/web-app-prjman",
-            "version": "v0.1.4",
+            "version": "v0.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-prjman.git",
-                "reference": "d3fd2adba3f266b87b1af370b97d718de1f51746"
+                "reference": "853fd6b90bdb254236868a497462ac0c5004bd67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-prjman/zipball/d3fd2adba3f266b87b1af370b97d718de1f51746",
-                "reference": "d3fd2adba3f266b87b1af370b97d718de1f51746",
+                "url": "https://api.github.com/repos/7os/web-app-prjman/zipball/853fd6b90bdb254236868a497462ac0c5004bd67",
+                "reference": "853fd6b90bdb254236868a497462ac0c5004bd67",
                 "shasum": ""
             },
             "require": {
@@ -423,20 +423,20 @@
                 "seven",
                 "web"
             ],
-            "time": "2019-08-11T04:34:52+00:00"
+            "time": "2019-08-24T06:41:34+00:00"
         },
         {
             "name": "7os/web-app-support",
-            "version": "v0.1.1",
+            "version": "v0.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-support.git",
-                "reference": "0bfcd5d172be76c142bb1155a2c0e3f428b61d36"
+                "reference": "e6d39a0e17c51863162f88f94dec5b58a7d97fc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-support/zipball/0bfcd5d172be76c142bb1155a2c0e3f428b61d36",
-                "reference": "0bfcd5d172be76c142bb1155a2c0e3f428b61d36",
+                "url": "https://api.github.com/repos/7os/web-app-support/zipball/e6d39a0e17c51863162f88f94dec5b58a7d97fc0",
+                "reference": "e6d39a0e17c51863162f88f94dec5b58a7d97fc0",
                 "shasum": ""
             },
             "type": "library",
@@ -469,20 +469,20 @@
                 "support",
                 "web"
             ],
-            "time": "2019-08-11T04:34:44+00:00"
+            "time": "2019-10-01T15:01:08+00:00"
         },
         {
             "name": "7os/web-app-terms",
-            "version": "v0.1.1",
+            "version": "v0.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/7os/web-app-terms.git",
-                "reference": "fe9816689c30b97717c855cf5e647ce6af0f4673"
+                "reference": "502715a079cd1850b476d67fe858953a8fb7df19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/7os/web-app-terms/zipball/fe9816689c30b97717c855cf5e647ce6af0f4673",
-                "reference": "fe9816689c30b97717c855cf5e647ce6af0f4673",
+                "url": "https://api.github.com/repos/7os/web-app-terms/zipball/502715a079cd1850b476d67fe858953a8fb7df19",
+                "reference": "502715a079cd1850b476d67fe858953a8fb7df19",
                 "shasum": ""
             },
             "type": "library",
@@ -515,20 +515,20 @@
                 "terms",
                 "web"
             ],
-            "time": "2019-08-11T04:34:28+00:00"
+            "time": "2019-10-01T15:01:17+00:00"
         },
         {
             "name": "giggsey/libphonenumber-for-php",
-            "version": "8.10.16",
+            "version": "8.10.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/libphonenumber-for-php.git",
-                "reference": "c62db205bb94fef8bd377c12d3a14e5677895db2"
+                "reference": "04d0228908237931bc1d9c841e3380991055a7e6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/c62db205bb94fef8bd377c12d3a14e5677895db2",
-                "reference": "c62db205bb94fef8bd377c12d3a14e5677895db2",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/04d0228908237931bc1d9c841e3380991055a7e6",
+                "reference": "04d0228908237931bc1d9c841e3380991055a7e6",
                 "shasum": ""
             },
             "require": {
@@ -583,20 +583,20 @@
                 "phonenumber",
                 "validation"
             ],
-            "time": "2019-08-01T13:17:58+00:00"
+            "time": "2019-10-16T11:25:36+00:00"
         },
         {
             "name": "giggsey/locale",
-            "version": "1.7.1",
+            "version": "1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/Locale.git",
-                "reference": "b8030fc8df13cdfbecba318588de2d52b49c9b50"
+                "reference": "85a1b251bad11c986fec2a051b10d4b80a5caa1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/Locale/zipball/b8030fc8df13cdfbecba318588de2d52b49c9b50",
-                "reference": "b8030fc8df13cdfbecba318588de2d52b49c9b50",
+                "url": "https://api.github.com/repos/giggsey/Locale/zipball/85a1b251bad11c986fec2a051b10d4b80a5caa1b",
+                "reference": "85a1b251bad11c986fec2a051b10d4b80a5caa1b",
                 "shasum": ""
             },
             "require": {
@@ -607,8 +607,8 @@
                 "pear/pear_exception": "^1.0",
                 "pear/versioncontrol_git": "^0.5",
                 "phing/phing": "~2.7",
+                "php-coveralls/php-coveralls": "^1.0|^2.0",
                 "phpunit/phpunit": "^4.8|^5.0",
-                "satooshi/php-coveralls": "^1.0",
                 "symfony/console": "^2.8|^3.0|^4.0",
                 "symfony/filesystem": "^2.8|^3.0|^4.0",
                 "symfony/finder": "^2.8|^3.0|^4.0",
@@ -632,31 +632,32 @@
                 }
             ],
             "description": "Locale functions required by libphonenumber-for-php",
-            "time": "2019-04-26T07:28:50+00:00"
+            "time": "2019-10-09T18:53:14+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "6.3.3",
+            "version": "6.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "407b0cb880ace85c9b63c5f9551db498cb2d50ba"
+                "reference": "0895c932405407fd3a7368b6910c09a24d26db11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/407b0cb880ace85c9b63c5f9551db498cb2d50ba",
-                "reference": "407b0cb880ace85c9b63c5f9551db498cb2d50ba",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/0895c932405407fd3a7368b6910c09a24d26db11",
+                "reference": "0895c932405407fd3a7368b6910c09a24d26db11",
                 "shasum": ""
             },
             "require": {
+                "ext-json": "*",
                 "guzzlehttp/promises": "^1.0",
-                "guzzlehttp/psr7": "^1.4",
+                "guzzlehttp/psr7": "^1.6.1",
                 "php": ">=5.5"
             },
             "require-dev": {
                 "ext-curl": "*",
                 "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4 || ^7.0",
-                "psr/log": "^1.0"
+                "psr/log": "^1.1"
             },
             "suggest": {
                 "psr/log": "Required for using the Log middleware"
@@ -668,12 +669,12 @@
                 }
             },
             "autoload": {
-                "files": [
-                    "src/functions_include.php"
-                ],
                 "psr-4": {
                     "GuzzleHttp\\": "src/"
-                }
+                },
+                "files": [
+                    "src/functions_include.php"
+                ]
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -697,7 +698,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-04-22T15:46:56+00:00"
+            "time": "2019-10-23T15:58:00+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -822,6 +823,52 @@
             "time": "2019-07-01T23:21:34+00:00"
         },
         {
+            "name": "michelf/php-markdown",
+            "version": "1.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/michelf/php-markdown.git",
+                "reference": "01ab082b355bf188d907b9929cd99b2923053495"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/michelf/php-markdown/zipball/01ab082b355bf188d907b9929cd99b2923053495",
+                "reference": "01ab082b355bf188d907b9929cd99b2923053495",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Michelf\\": "Michelf/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Michel Fortin",
+                    "email": "michel.fortin@michelf.ca",
+                    "homepage": "https://michelf.ca/",
+                    "role": "Developer"
+                },
+                {
+                    "name": "John Gruber",
+                    "homepage": "https://daringfireball.net/"
+                }
+            ],
+            "description": "PHP Markdown",
+            "homepage": "https://michelf.ca/projects/php-markdown/",
+            "keywords": [
+                "markdown"
+            ],
+            "time": "2018-01-15T00:49:33+00:00"
+        },
+        {
             "name": "psr/http-message",
             "version": "1.0.1",
             "source": {
@@ -913,16 +960,16 @@
         },
         {
             "name": "tymfrontiers-cdn/php-data",
-            "version": "v0.1.2",
+            "version": "v0.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-data.git",
-                "reference": "9b827eed26285744dbd9b17adeb43a7fe220ab5b"
+                "reference": "83620313d2bd7bd0de3e71718737395b8e38254b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-data/zipball/9b827eed26285744dbd9b17adeb43a7fe220ab5b",
-                "reference": "9b827eed26285744dbd9b17adeb43a7fe220ab5b",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-data/zipball/83620313d2bd7bd0de3e71718737395b8e38254b",
+                "reference": "83620313d2bd7bd0de3e71718737395b8e38254b",
                 "shasum": ""
             },
             "require": {
@@ -943,15 +990,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP Data manager",
@@ -963,7 +1010,7 @@
                 "php",
                 "tym"
             ],
-            "time": "2019-07-30T13:59:59+00:00"
+            "time": "2019-10-05T18:10:34+00:00"
         },
         {
             "name": "tymfrontiers-cdn/php-error-log",
@@ -998,15 +1045,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP error log",
@@ -1021,16 +1068,16 @@
         },
         {
             "name": "tymfrontiers-cdn/php-generic",
-            "version": "v0.1",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-generic.git",
-                "reference": "0d6cb6ab545cc27d8540e9f4003fd471caa878d1"
+                "reference": "2abd839edd78a67209a172cc5018c6bc0f832972"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-generic/zipball/0d6cb6ab545cc27d8540e9f4003fd471caa878d1",
-                "reference": "0d6cb6ab545cc27d8540e9f4003fd471caa878d1",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-generic/zipball/2abd839edd78a67209a172cc5018c6bc0f832972",
+                "reference": "2abd839edd78a67209a172cc5018c6bc0f832972",
                 "shasum": ""
             },
             "require": {
@@ -1049,15 +1096,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP generic functions",
@@ -1069,20 +1116,20 @@
                 "php",
                 "tym"
             ],
-            "time": "2019-07-08T03:17:48+00:00"
+            "time": "2019-09-16T14:46:15+00:00"
         },
         {
             "name": "tymfrontiers-cdn/php-instance-error",
-            "version": "v0.1",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-instance-error.git",
-                "reference": "2a85ff5e5cbc350f40ba153ab92b77514cf6429a"
+                "reference": "7d4fc9e2382511e8992b56636c4d2d378e6caf00"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-instance-error/zipball/2a85ff5e5cbc350f40ba153ab92b77514cf6429a",
-                "reference": "2a85ff5e5cbc350f40ba153ab92b77514cf6429a",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-instance-error/zipball/7d4fc9e2382511e8992b56636c4d2d378e6caf00",
+                "reference": "7d4fc9e2382511e8992b56636c4d2d378e6caf00",
                 "shasum": ""
             },
             "require": {
@@ -1103,15 +1150,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP Instance Error",
@@ -1124,7 +1171,7 @@
                 "php",
                 "tym"
             ],
-            "time": "2019-07-08T03:24:38+00:00"
+            "time": "2019-09-16T16:17:31+00:00"
         },
         {
             "name": "tymfrontiers-cdn/php-location",
@@ -1159,15 +1206,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "Get visitor's basic location information",
@@ -1213,15 +1260,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP MultiForm",
@@ -1236,16 +1283,16 @@
         },
         {
             "name": "tymfrontiers-cdn/php-mysql-database",
-            "version": "v0.1",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-mysql-database.git",
-                "reference": "87d2a1889b9a96cdf4f6f8f796f671b4142ceec9"
+                "reference": "c49235373feab56bf9e603100ff10eaf6ce5dd78"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-mysql-database/zipball/87d2a1889b9a96cdf4f6f8f796f671b4142ceec9",
-                "reference": "87d2a1889b9a96cdf4f6f8f796f671b4142ceec9",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-mysql-database/zipball/c49235373feab56bf9e603100ff10eaf6ce5dd78",
+                "reference": "c49235373feab56bf9e603100ff10eaf6ce5dd78",
                 "shasum": ""
             },
             "require": {
@@ -1264,15 +1311,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP MySQL Database manager",
@@ -1285,20 +1332,20 @@
                 "php",
                 "tym"
             ],
-            "time": "2019-07-08T03:28:25+00:00"
+            "time": "2019-10-23T13:07:05+00:00"
         },
         {
             "name": "tymfrontiers-cdn/php-mysql-database-object",
-            "version": "v0.1",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-mysql-database-object.git",
-                "reference": "dba082b43812d43b73f42c88f272956add7db1d3"
+                "reference": "6b012d292cb8786389a088f13f187bd2b43cec14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-mysql-database-object/zipball/dba082b43812d43b73f42c88f272956add7db1d3",
-                "reference": "dba082b43812d43b73f42c88f272956add7db1d3",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-mysql-database-object/zipball/6b012d292cb8786389a088f13f187bd2b43cec14",
+                "reference": "6b012d292cb8786389a088f13f187bd2b43cec14",
                 "shasum": ""
             },
             "require": {
@@ -1317,15 +1364,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP MySQL Database Object",
@@ -1338,7 +1385,7 @@
                 "php",
                 "tym"
             ],
-            "time": "2019-07-08T03:29:39+00:00"
+            "time": "2019-09-13T13:09:15+00:00"
         },
         {
             "name": "tymfrontiers-cdn/php-pagination",
@@ -1370,15 +1417,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP Pagination",
@@ -1393,16 +1440,16 @@
         },
         {
             "name": "tymfrontiers-cdn/php-session",
-            "version": "v0.1",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-session.git",
-                "reference": "b03a95d3af75c73f482eca50da28d86c5df971b2"
+                "reference": "ad1a7257bf07acc238f1cac6c63d100c7e1cdbfe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-session/zipball/b03a95d3af75c73f482eca50da28d86c5df971b2",
-                "reference": "b03a95d3af75c73f482eca50da28d86c5df971b2",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-session/zipball/ad1a7257bf07acc238f1cac6c63d100c7e1cdbfe",
+                "reference": "ad1a7257bf07acc238f1cac6c63d100c7e1cdbfe",
                 "shasum": ""
             },
             "require": {
@@ -1423,15 +1470,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP Session",
@@ -1443,20 +1490,20 @@
                 "session",
                 "tym"
             ],
-            "time": "2019-07-08T03:32:50+00:00"
+            "time": "2019-09-16T16:17:43+00:00"
         },
         {
             "name": "tymfrontiers-cdn/php-validator",
-            "version": "v0.1",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tymfrontiers-cdn/php-validator.git",
-                "reference": "64752608305cff4ae1c0a1f72d2941db42e99782"
+                "reference": "7a1906a3e9f5039f20541fb30e7927048ff229c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-validator/zipball/64752608305cff4ae1c0a1f72d2941db42e99782",
-                "reference": "64752608305cff4ae1c0a1f72d2941db42e99782",
+                "url": "https://api.github.com/repos/tymfrontiers-cdn/php-validator/zipball/7a1906a3e9f5039f20541fb30e7927048ff229c8",
+                "reference": "7a1906a3e9f5039f20541fb30e7927048ff229c8",
                 "shasum": ""
             },
             "require": {
@@ -1475,15 +1522,15 @@
             "authors": [
                 {
                     "name": "Sir Louis",
-                    "role": "developer",
                     "email": "me@sirlouis.io",
-                    "homepage": "https://sirlouis.io"
+                    "homepage": "https://sirlouis.io",
+                    "role": "developer"
                 },
                 {
                     "name": "Tym Frontiers Ltd",
-                    "role": "developer",
                     "email": "git@tymfrontiers.com",
-                    "homepage": "https://tymfrontiers.com"
+                    "homepage": "https://tymfrontiers.com",
+                    "role": "developer"
                 }
             ],
             "description": "PHP Validator",
@@ -1494,7 +1541,7 @@
                 "tym",
                 "validator"
             ],
-            "time": "2019-07-08T03:34:46+00:00"
+            "time": "2019-10-21T02:15:06+00:00"
         },
         {
             "name": "victorybiz/geoip-location",

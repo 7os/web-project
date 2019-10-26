@@ -3,6 +3,7 @@
 \define("PRJ_ROOT",\dirname(__FILE__));
 \define("PRJ_LIBRARY",PRJ_ROOT . "/vendor"); //composer directory
 \define("PRJ_APP_DIR",PRJ_ROOT . "/dev"); // /dev for development | /vendor for production
+\define ("PRJ_ENABLE_ACCESS_GROUP", 0); // Whether or not to switch user access group when logged in
 \define("PRJ_DOMAIN","project.7os.io");
 \define("PRJ_NAME","web-project");
 \define("PRJ_TITLE","7OS Web Project");
@@ -11,9 +12,11 @@
 \define("PRJ_AUTHOR","Author's Name");
 \define("PRJ_PUBLISHER","Publisher's Name");
 \define("PRJ_CREATOR","Creator's Name");
-\define("PRJ_API_PU_KEY","");
-\define("PRJ_API_PR_KEY","");
-// project icon check: https://realfavicongenerator.net/
+// API app info
+\define ("API_APP_NAME","web-project");
+\define ("API_APP_PUKEY","puk-");
+\define ("API_APP_PRKEY","prk-");
+// project icon check/generate from: https://realfavicongenerator.net/
 // path should be relative to domain/project root
 \define("PRJ_PRIMARY_COLOUR","#000");
 \define("PRJ_SECONDARY_COLOUR","#ffffff");

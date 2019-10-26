@@ -5,7 +5,7 @@ require_once "base.init.php";
 <html lang="en" dir="ltr" manifest="./site.manifest">
   <head>
     <meta charset="utf-8">
-    <title>7 OS Project</title>
+    <title>7 OS Project UI testing</title>
     <?php include PRJ_INC_ICONSET; ?>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
     <meta name="keywords" content="7, seven, os, operating, system, template">

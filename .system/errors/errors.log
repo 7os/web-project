@@ -1,0 +1,7 @@
+[26-Oct-2019 07:58:03 Africa/Lagos] PHP Warning:  Use of undefined constant PRJ_KEYWORDS - assumed 'PRJ_KEYWORDS' (this will throw an Error in a future version of PHP) in W:\GIT\7os\web-project\dev\7os\web-app-about\index.php on line 14
+[26-Oct-2019 07:58:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Michelf\Markdown' not found in W:\GIT\7os\web-project\dev\7os\web-app-about\index.php:37
+Stack trace:
+#0 {main}
+  thrown in W:\GIT\7os\web-project\dev\7os\web-app-about\index.php on line 37
+[26-Oct-2019 08:00:59 Africa/Lagos] PHP Warning:  Use of undefined constant PRJ_KEYWORDS - assumed 'PRJ_KEYWORDS' (this will throw an Error in a future version of PHP) in W:\GIT\7os\web-project\dev\7os\web-app-about\index.php on line 14
+[26-Oct-2019 08:01:51 Africa/Lagos] PHP Warning:  Use of undefined constant PRJ_KEYWORDS - assumed 'PRJ_KEYWORDS' (this will throw an Error in a future version of PHP) in W:\GIT\7os\web-project\dev\7os\web-app-about\index.php on line 14

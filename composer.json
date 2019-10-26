@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Ikechukwu Okalia",
-            "email": "me@sirlouis.io"
+            "email": "dev@sirlouis.io"
         },
         {
             "name": "Tym Frontiers Ltd.",
@@ -31,6 +31,7 @@
       "7os/web-app-terms" : ">=0.1@stable",
       "7os/web-app-contact" : ">=0.1@stable",
       "7os/web-app-about" : ">=0.1@stable",
-        "tymfrontiers-cdn/php-validator": "^0.1.0"
+        "tymfrontiers-cdn/php-validator": ">=0.1.0@stable",
+        "michelf/php-markdown": ">=1.8@stable"
     }
 }
