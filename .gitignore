@@ -10,3 +10,4 @@ test/*
 !dev/README.md
 !dev/.gitkeep
 !storage/.gitkeep
+composer.lock
