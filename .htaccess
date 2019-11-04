@@ -67,9 +67,9 @@ RewriteRule ^(prjman?)/(.*)$ %{ENV:SHORTCUT_PATH}/7os/web-app-prjman/$2 [QSA,NC,
 ##-7os/web-app-prjman-END
 ### 7 OS Theming and plugins
 ##-webnize-7os-default-START
-RewriteRule ^7os/([A-Za-z0-9\-]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$1/ [QSA,NC,L]
-RewriteRule ^7os/([A-Za-z0-9\-]{3,})/([0-9a-zA-Z\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$1/pages/$2.php [QSA,NC,L]
-RewriteRule ^7os/([A-Za-z0-9\-]{3,})/(.*)$ %{ENV:SHORTCUT_PATH}/7os/$1/$2 [QSA,NC,L]
+RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/ [QSA,NC,L]
+RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/([0-9a-zA-Z\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/pages/$3.php [QSA,NC,L]
+RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/(.*)$ %{ENV:SHORTCUT_PATH}/7os/$2/$3 [QSA,NC,L]
 ##-webnize-7os-default-END
 ##-APP-SHORTCUT-END
 

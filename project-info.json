@@ -10,7 +10,7 @@
   "PRJ_SECONDARY_COLOUR" : "#ffffff",
   "PRJ_THEME" : "light",
   "HOMEPAGE" : "https://github.com/7os/web-project",
-  "PRJ_ROOT"  : "w:/git/7os/web-project",
+  "PRJ_ROOT"  : "/users/sirlouis/sites/git/7os/web-project",
   "DOMAIN"  : "project.7os.io",
   "SUPPORT" : {
     "EMAIL" : "dev@tymfrontiers.com",
