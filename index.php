@@ -15,12 +15,12 @@ require_once "base.init.php";
     <meta name="publisher" content="Your company">
     <meta name="robots" content='index'>
     <!-- Theming styles -->
-    <link rel="stylesheet" href="./7os/web-theme/css/web-theme.css">
-    <link rel="stylesheet" href="./7os/web-theme/css/web-theme-<?php echo PRJ_THEME; ?>.css">
+    <link rel="stylesheet" href="./7os/theme-soswapp/css/theme.css">
+    <link rel="stylesheet" href="./7os/theme-soswapp/css/theme-<?php echo PRJ_THEME; ?>.css">
     <!-- optional plugin -->
-    <link rel="stylesheet" href="./7os/web-plugin/css/web-plugin.css">
-    <link rel="stylesheet" href="./7os/web-dnav/css/web-dnav.css">
-    <link rel="stylesheet" href="./7os/web-faderbox/css/web-faderbox.css">
+    <link rel="stylesheet" href="./7os/plugin-soswapp/css/plugin.css">
+    <link rel="stylesheet" href="./7os/dnav-soswapp/css/dnav.css">
+    <link rel="stylesheet" href="./7os/faderbox-soswapp/css/faderbox.css">
     <!-- Project styling -->
     <link rel="stylesheet" href="<?php echo \html_style("base.css"); ?>">
   </head>
@@ -35,13 +35,13 @@ require_once "base.init.php";
     </div>
 
     <!-- Required scripts -->
-    <script src="./7os/jquery/js/jquery.min.js">  </script>
-    <script src="./7os/js-generic/js/js-generic.min.js">  </script>
-    <script src="./7os/web-theme/js/web-theme.min.js"></script>
+    <script src="./7os/jquery-soswapp/js/jquery.min.js">  </script>
+    <script src="./7os/js-generic-soswapp/js/js-generic.min.js">  </script>
+    <script src="./7os/theme-soswapp/js/theme.min.js"></script>
     <!-- optional plugins -->
-    <script src="/7os/web-plugin/js/web-plugin.min.js"></script>
-    <script src="/7os/web-dnav/js/web-dnav.min.js"></script>
-    <script src="/7os/web-faderbox/js/web-faderbox.min.js"></script>
+    <script src="/7os/plugin-soswapp/js/plugin.min.js"></script>
+    <script src="/7os/dnav-soswapp/js/dnav.min.js"></script>
+    <script src="/7os/faderbox-soswapp/js/faderbox.min.js"></script>
     <!-- project scripts -->
     <script src="<?php echo \html_script ("base.min.js"); ?>"></script>
     <script type="text/javascript">

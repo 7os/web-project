@@ -1,5 +1,5 @@
 {
-  "NAME" : "7os/web-project",
+  "NAME" : "7os/project-soswapp",
   "TITLE" : "7 OS Web - project template",
   "DESCRIPTION" : "",
   "PRJ_KEYWORDS" : "",
@@ -9,12 +9,12 @@
   "PRJ_PRIMARY_COLOUR" : "#000",
   "PRJ_SECONDARY_COLOUR" : "#ffffff",
   "PRJ_THEME" : "light",
-  "HOMEPAGE" : "https://github.com/7os/web-project",
-  "PRJ_ROOT"  : "/users/sirlouis/sites/git/7os/web-project",
+  "HOMEPAGE" : "https://github.com/7os/project-soswapp",
+  "PRJ_ROOT"  : "/users/sirlouis/sites/git/7os/project-soswapp",
   "DOMAIN"  : "project.7os.io",
   "SUPPORT" : {
     "EMAIL" : "dev@tymfrontiers.com",
-    "WEBSITE" : "https://github.com/7os/web-project",
+    "WEBSITE" : "https://github.com/7os/project-soswapp",
     "KOLLABO" : "tymfrontiers",
     "TWITTER" : "tymfrontiers",
     "FACEBOOK" : "tymfrontiers",
