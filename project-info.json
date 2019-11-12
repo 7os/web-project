@@ -10,11 +10,11 @@
   "PRJ_SECONDARY_COLOUR" : "#ffffff",
   "PRJ_THEME" : "light",
   "HOMEPAGE" : "https://github.com/7os/project-soswapp",
-  "PRJ_ROOT"  : "/users/sirlouis/sites/git/7os/project-soswapp",
+  "PRJ_ROOT"  : "/users/sirlouis/sites/git/7os/web-project",
   "DOMAIN"  : "project.7os.io",
   "SUPPORT" : {
     "EMAIL" : "dev@tymfrontiers.com",
-    "WEBSITE" : "https://github.com/7os/project-soswapp",
+    "WEBSITE" : "https://github.com/7os/web-project",
     "KOLLABO" : "tymfrontiers",
     "TWITTER" : "tymfrontiers",
     "FACEBOOK" : "tymfrontiers",
