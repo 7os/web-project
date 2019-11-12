@@ -8,11 +8,11 @@ require_once "base.init.php";
     <title>7 OS Project UI testing</title>
     <?php include PRJ_INC_ICONSET; ?>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
-    <meta name="keywords" content="7, seven, os, operating, system, template">
-    <meta name="description" content="7 OS Web - project template">
-    <meta name="author" content="Your developer">
-    <meta name="creator" content="7 OS">
-    <meta name="publisher" content="Your company">
+    <meta name="keywords" content="<?php echo PRJ_KEYWORDS; ?>">
+    <meta name="description" content="<?php echo PRJ_DESCRIPTION; ?>">
+    <meta name="author" content="<?php echo PRJ_AUTHOR; ?>">
+    <meta name="creator" content="<?php echo PRJ_CREATOR; ?>">
+    <meta name="publisher" content="<?php echo PRJ_PUBLISHER; ?>">
     <meta name="robots" content='index'>
     <!-- Theming styles -->
     <link rel="stylesheet" href="./7os/theme-soswapp/css/theme.css">

@@ -8,7 +8,7 @@
 \define("PRJ_NAME","web-project");
 \define("PRJ_TITLE","7OS Web Project");
 \define("PRJ_DESCRIPTION","7 OS Web project template.");
-\define("PRJ_TAGS","tym, frontiers, 7, seven, os, operating, system"); // separate with comma
+\define("PRJ_KEYWORDS","tym, frontiers, 7, seven, os, operating, system"); // separate with comma
 \define("PRJ_AUTHOR","Author's Name");
 \define("PRJ_PUBLISHER","Publisher's Name");
 \define("PRJ_CREATOR","Creator's Name");
