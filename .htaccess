@@ -67,6 +67,8 @@ RewriteRule ^(prjman?)/(.*)$ %{ENV:SHORTCUT_PATH}/7os/prjman-soswapp/$2 [QSA,NC,
 ##-7os/prjman-soswapp-END
 ### 7 OS Theming and plugins
 ##-7os-default-START
+RewriteRule ^navlist/?$ %{ENV:SHORTCUT_PATH}/7os/navlist-soswapp/ [QSA,NC,L]
+RewriteRule ^navlist/([a-zA-Z]{3,12})?$ %{ENV:SHORTCUT_PATH}/7os/navlist-soswapp/?format=$1 [QSA,NC,L]
 RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/ [QSA,NC,L]
 RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/([0-9a-zA-Z\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/pages/$3.php [QSA,NC,L]
 RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/(.*)$ %{ENV:SHORTCUT_PATH}/7os/$2/$3 [QSA,NC,L]
