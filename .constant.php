@@ -20,7 +20,7 @@
 // path should be relative to domain/project root
 \define("PRJ_PRIMARY_COLOUR","#000");
 \define("PRJ_SECONDARY_COLOUR","#ffffff");
-\define("PRJ_THEME","dark"); //7 OS web-theme /theme: dark, light
+\define("PRJ_THEME","light"); //7 OS web-theme /theme: dark, light
 
 \define("PRJ_ICON_SVG","/assets/img/icon.svg"); //
 \define("PRJ_MS_CONFIG","/msconfig.xml"); //

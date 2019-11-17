@@ -19,7 +19,7 @@ require_once "base.init.php";
     <link rel="stylesheet" href="./7os/theme-soswapp/css/theme-<?php echo PRJ_THEME; ?>.css">
     <!-- optional plugin -->
     <link rel="stylesheet" href="./7os/plugin-soswapp/css/plugin.css">
-    <link rel="stylesheet" href="./7os/dnav-soswapp/css/dnav.min.css">
+    <link rel="stylesheet" href="./7os/dnav-soswapp/css/dnav.css">
     <link rel="stylesheet" href="./7os/faderbox-soswapp/css/faderbox.css">
     <!-- Project styling -->
     <link rel="stylesheet" href="<?php echo \html_style("base.css"); ?>">
