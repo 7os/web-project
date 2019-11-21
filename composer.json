@@ -37,6 +37,7 @@
       "7os/js-generic-soswapp" : ">=0.1@stable",
       "7os/dnav-soswapp" : ">=0.1@stable",
       "7os/navlist-soswapp" : ">=0.1@stable",
+      "7os/file-soswapp" : ">=0.1@stable",
       "7os/faderbox-soswapp" : ">=0.1@stable",
       "7os/plugin-soswapp" : ">=0.1@stable",
       "7os/theme-soswapp" : ">=0.1@stable",
