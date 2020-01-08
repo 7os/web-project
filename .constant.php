@@ -46,6 +46,8 @@
 \define("MYSQL_ADMIN_DB",MYSQL_PREFIX . "admin"); // admin info database
 \define("MYSQL_LOG_DB",MYSQL_PREFIX . "log"); // log database
 \define("MYSQL_DATA_DB",MYSQL_PREFIX . "data"); // database for storing generic data
+\define("MYSQL_FILE_DB", MYSQL_PREFIX . "files"); // database for storing file data
+\define("MYSQL_FILE_TBL", "file_meta"); // table for storing file data
 // MySQL Users
 \define("MYSQL_GUEST_USERNAME", MYSQL_PREFIX . "GUEST");
 \define("MYSQL_GUEST_PASS","PassWord123");
