@@ -72,9 +72,12 @@ RewriteRule ^file/(\d+)$ %{ENV:SHORTCUT_PATH}/7os/file-soswapp/?fid=$1 [QSA,NC,L
 RewriteRule ^file/([a-zA-Z0-9\-\.\_]+)$ %{ENV:SHORTCUT_PATH}/7os/file-soswapp/?fname=$1 [QSA,NC,L]
 RewriteRule ^navlist/?$ %{ENV:SHORTCUT_PATH}/7os/navlist-soswapp/ [QSA,NC,L]
 RewriteRule ^navlist/([a-zA-Z]{3,12})?$ %{ENV:SHORTCUT_PATH}/7os/navlist-soswapp/?format=$1 [QSA,NC,L]
-RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/ [QSA,NC,L]
-RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/([0-9a-zA-Z\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/pages/$3.php [QSA,NC,L]
-RewriteRule ^(7os|sos)/([A-Za-z0-9\-]{3,})/(.*)$ %{ENV:SHORTCUT_PATH}/7os/$2/$3 [QSA,NC,L]
+RewriteRule ^(7os|sos)/([A-Za-z0-9\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/ [QSA,NC,L]
+RewriteRule ^(7os|sos)?/([A-Za-z0-9\-]{3,})/(.*)$ %{ENV:SHORTCUT_PATH}/7os/$2/$3 [QSA,NC,L]
+RewriteRule ^(7os|sos)?/([A-Za-z0-9\-]{3,})/([0-9a-zA-Z\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/7os/$2/pages/$3.php [QSA,NC,L]
+RewriteRule ^(tymfrontiers|tymfrontiers-cdn)?/([A-Za-z0-9\-\_\.]{3,})/?$ %{ENV:SHORTCUT_PATH}/$1/$2/ [QSA,NC,L]
+RewriteRule ^(tymfrontiers|tymfrontiers-cdn)?/([A-Za-z0-9\-]{3,})/([0-9a-zA-Z\-\.\_]{3,})/?$ %{ENV:SHORTCUT_PATH}/$1/$2/pages/$3.php [QSA,NC,L]
+RewriteRule ^(tymfrontiers|tymfrontiers-cdn)?/([A-Za-z0-9\-]{3,})/(.*)$ %{ENV:SHORTCUT_PATH}/$1/$2/$3 [QSA,NC,L]
 ##-7os-default-END
 ##-APP-SHORTCUT-END
 
