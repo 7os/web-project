@@ -29,6 +29,7 @@
 \define("PRJ_MS_THEME_COLOUR",PRJ_SECONDARY_COLOUR); // for Windows theme
 \define("PRJ_ICON_16X16","/assets/img/icon-16x16.png");
 \define("PRJ_ICON_32X32","/assets/img/icon-32x32.png");
+\define("PRJ_ICON_150X150","/assets/img/icon-150x150.png");
 \define("PRJ_ICON_180X180","/assets/img/icon-180x180.png");
 \define("PRJ_ICON_192X192","/assets/img/icon-192x192.png");
 \define("PRJ_ICON_512X512","/assets/img/icon-180x180.png");
@@ -38,6 +39,14 @@
 \define("PRJ_INC_FOOTER",PRJ_ROOT . "/src/inc-footer.php"); // include file
 \define("PRJ_INC_SIDEBAR",PRJ_ROOT . "/src/inc-aside.php"); // include file
 \define("PRJ_SIDEBAR_POS","off"); // position of side bar: "left", "right", "off"
+\define("PRJ_HEADER_HEIGHT", 100); // Height of header pane in px
+// Robots
+\define("PRJ_BOT_WELCOME", "Dimma"); // Robot: welcomes new users
+\define("PRJ_BOT_AUTH", "Agu"); // Robot: authentications etc
+\define("PRJ_BOT_Help", "Mmasi"); // Robot: support robot
+\define("PRJ_SUPPORT_EMAIL", "support@" . PRJ_DOMAIN); // support email
+\define("PRJ_AUTO_EMAIL", "no_reply@" . PRJ_DOMAIN); // Email for sending random message
+\define("PRJ_ADMIN_EMAIL", "admin@" . PRJ_DOMAIN); // Admin Email
 // MySQL Server
 \define("MYSQL_SERVER","localhost");
 // MySQL Databases

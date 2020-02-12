@@ -19,8 +19,8 @@ function require_login (bool $redirect = true) {
   global $session;
   if (!$session->isLoggedIn() ) {
     if ($redirect) {
-      \TymFrontiers\HTTP\Header::redirect(\TymFrontiers\Generic::setGet(WHOST . '/login',['rdt'=>THIS_PAGE]));
-    } else{
+      \TymFrontiers\HTTP\Header::redirect(\TymFrontiers\Generic::setGet(WHOST . '/user/login',['rdt'=>THIS_PAGE]));
+    } else {
       \TymFrontiers\HTTP\Header::unauthorized(false,'',["Message"=>"Login is required for requested resource!"]);
     }
   }
