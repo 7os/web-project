@@ -65,6 +65,14 @@ RewriteRule ^(prjman?)/?$ %{ENV:SHORTCUT_PATH}/7os/prjman-soswapp/ [QSA,NC,L]
 RewriteRule ^(prjman?)/([0-9a-zA-Z\-\.]{3,})$ %{ENV:SHORTCUT_PATH}/7os/prjman-soswapp/pages/$2.php [QSA,NC,L]
 RewriteRule ^(prjman?)/(.*)$ %{ENV:SHORTCUT_PATH}/7os/prjman-soswapp/$2 [QSA,NC,L]
 ##-7os/prjman-soswapp-END
+##-tymfrontiers-cdn/user-soswapp-START
+RewriteRule ^user/?$ %{ENV:SHORTCUT_PATH}/tymfrontiers-cdn/user-soswapp/ [QSA,NC,L]
+RewriteRule ^user/(sign\-up|signup|register)$ %{ENV:SHORTCUT_PATH}/tymfrontiers-cdn/user-soswapp/pages/sign-up.php [QSA,NC,L]
+RewriteRule ^user/(sign\-in|signin|login)$ %{ENV:SHORTCUT_PATH}/tymfrontiers-cdn/user-soswapp/pages/sign-in.php [QSA,NC,L]
+RewriteRule ^user/(sign\-out|signout|logout)$ %{ENV:SHORTCUT_PATH}/tymfrontiers-cdn/user-soswapp/pages/sign-out.php [QSA,NC,L]
+RewriteRule ^user/([0-9a-zA-Z\-\.]{3,})$ %{ENV:SHORTCUT_PATH}/tymfrontiers-cdn/user-soswapp/pages/$1.php [QSA,NC,L]
+RewriteRule ^user/(.*)$ %{ENV:SHORTCUT_PATH}/tymfrontiers-cdn/user-soswapp/$1 [QSA,NC,L]
+##-tymfrontiers-cdn/user-soswapp-END
 ### 7 OS Theming and plugins
 ##-7os-default-START
 RewriteRule ^file/?$ %{ENV:SHORTCUT_PATH}/7os/file-soswapp/ [QSA,NC,L]
