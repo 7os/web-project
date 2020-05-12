@@ -5,6 +5,7 @@
 \define("PRJ_APP_DIR",PRJ_ROOT . "/dev"); // /dev for development | /vendor for production
 \define ("PRJ_ENABLE_ACCESS_GROUP", 0); // Whether or not to switch user access group when logged in
 \define("PRJ_DOMAIN","project.7os.io");
+\define("PRJ_BASE_DOMAIN","7os.io");
 \define("PRJ_NAME","web-project");
 \define("PRJ_TITLE","7OS Web Project");
 \define("PRJ_DESCRIPTION","7 OS Web project template.");
@@ -40,13 +41,9 @@
 \define("PRJ_INC_SIDEBAR",PRJ_ROOT . "/src/inc-aside.php"); // include file
 \define("PRJ_SIDEBAR_POS","off"); // position of side bar: "left", "right", "off"
 \define("PRJ_HEADER_HEIGHT", 100); // Height of header pane in px
-// Robots
-\define("PRJ_BOT_WELCOME", "Dimma"); // Robot: welcomes new users
-\define("PRJ_BOT_AUTH", "Agu"); // Robot: authentications etc
-\define("PRJ_BOT_Help", "Mmasi"); // Robot: support robot
-\define("PRJ_SUPPORT_EMAIL", "support@" . PRJ_DOMAIN); // support email
-\define("PRJ_AUTO_EMAIL", "no_reply@" . PRJ_DOMAIN); // Email for sending random message
-\define("PRJ_ADMIN_EMAIL", "admin@" . PRJ_DOMAIN); // Admin Email
+\define("PRJ_SUPPORT_EMAIL", "support@" . PRJ_BASE_DOMAIN); // support email
+\define("PRJ_AUTO_EMAIL", "no_reply@" . PRJ_BASE_DOMAIN); // Email for sending random message
+\define("PRJ_ADMIN_EMAIL", "admin@" . PRJ_BASE_DOMAIN); // Admin Email
 // MySQL Server
 \define("MYSQL_SERVER","localhost");
 // MySQL Databases
