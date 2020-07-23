@@ -12,3 +12,4 @@ test/*
 !storage/.gitkeep
 composer.lock
 .system/errors/
+!system/errors/.gitkeep

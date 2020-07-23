@@ -2,7 +2,7 @@
 require_once "base.init.php";
 ?>
 <!DOCTYPE html>
-<html lang="en" dir="ltr" manifest="./site.manifest">
+<html lang="en" dir="ltr" manifest="./site.webmanifest">
   <head>
     <meta>
     <title>7 OS Project UI testing</title>
@@ -15,17 +15,17 @@ require_once "base.init.php";
     <meta name="publisher" content="<?php echo PRJ_PUBLISHER; ?>">
     <meta name="robots" content='index'>
     <!-- Theming styles -->
-    <link rel="stylesheet" href="./7os/theme-soswapp/css/theme.css">
-    <link rel="stylesheet" href="./7os/theme-soswapp/css/theme-<?php echo PRJ_THEME; ?>.css">
+    <link rel="stylesheet" href="<?php echo WHOST; ?>/7os/theme-soswapp/css/theme.min.css">
+    <link rel="stylesheet" href="<?php echo WHOST; ?>/7os/theme-soswapp/css/theme-<?php echo PRJ_THEME; ?>.min.css">
     <!-- optional plugin -->
-    <link rel="stylesheet" href="./7os/plugin-soswapp/css/plugin.css">
-    <link rel="stylesheet" href="./7os/dnav-soswapp/css/dnav.min.css">
-    <link rel="stylesheet" href="./7os/faderbox-soswapp/css/faderbox.css">
+    <link rel="stylesheet" href="<?php echo WHOST; ?>/7os/plugin-soswapp/css/plugin.min.css">
+    <link rel="stylesheet" href="<?php echo WHOST; ?>/7os/dnav-soswapp/css/dnav.min.css">
+    <link rel="stylesheet" href="<?php echo WHOST; ?>/7os/faderbox-soswapp/css/faderbox.min.css">
     <!-- Project styling -->
-    <link rel="stylesheet" href="<?php echo \html_style("base.css"); ?>">
+    <link rel="stylesheet" href="<?php echo \html_style("base.min.css"); ?>">
   </head>
   <body>
-    <?php \setup_page("base", "base",200) ?>
+    <?php \TymFrontiers\Helper\setup_page("base", "base",true, PRJ_HEADER_HEIGHT); ?>
     <!-- <div id="sos-loader">
       <div id="sos-loader-loaded"></div>
     </div> -->
@@ -49,22 +49,16 @@ require_once "base.init.php";
     </div>
 
     <!-- Required scripts -->
-    <script src="./7os/jquery-soswapp/js/jquery.min.js">  </script>
-    <script src="./7os/js-generic-soswapp/js/js-generic.min.js">  </script>
-    <script src="./7os/theme-soswapp/js/theme.min.js"></script>
+    <script src="<?php echo WHOST; ?>/7os/jquery-soswapp/js/jquery.min.js">  </script>
+    <script src="<?php echo WHOST; ?>/7os/js-generic-soswapp/js/js-generic.min.js">  </script>
+    <script src="<?php echo WHOST; ?>/7os/theme-soswapp/js/theme.min.js"></script>
     <!-- optional plugins -->
-    <script src="/7os/plugin-soswapp/js/plugin.min.js"></script>
-    <script src="/7os/dnav-soswapp/js/dnav.js"></script>
-    <script src="/7os/faderbox-soswapp/js/faderbox.min.js"></script>
+    <script src="<?php echo WHOST; ?>/7os/plugin-soswapp/js/plugin.min.js"></script>
+    <script src="<?php echo WHOST; ?>/7os/dnav-soswapp/js/dnav.js"></script>
+    <script src="<?php echo WHOST; ?>/7os/faderbox-soswapp/js/faderbox.min.js"></script>
     <!-- project scripts -->
     <script src="<?php echo \html_script ("base.min.js"); ?>"></script>
     <script type="text/javascript">
-      // sos.faderBox.url("http://webnize.biz/register",{ref:'sirlouis'},{exitBtn:true,showLoader:true});
-      function say(num) {
-        console.log(num);
-      }
-      // console.log( typeof say);
-      // sos.dnav.init(location.origin + "/navlist");
     </script>
   </body>
 </html>

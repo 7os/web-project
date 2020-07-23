@@ -12,8 +12,8 @@ RewriteBase /
 SetEnvIf Request_URL "^.*" SHORTCUT_PATH=/dev
 ##-REWRITEPATH-END
 ##-REMOVE-WWW-START
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
 ##-REMOVE-WWW-END
 #-FORCE-HTTPS-START
 # RewriteCond %{HTTPS} !=on
